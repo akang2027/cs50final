@@ -1,0 +1,33 @@
+.container {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  
+  .form {
+    margin: 20px 0;
+  }
+  
+  .label {
+    display: block;
+    margin: 10px 0;
+    font-weight: bold;
+  }
+  
+  .textarea {
+    width: 100%;
+    height: 150px;
+    padding: 10px;
+    border: '1px solid #rgb(204, 204, 204)';
+  }
+  
+  .result-textarea {
+    width: 100%;
+    height: 500px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    overflow-y: auto;
+    white-space: pre;
+    tab-size: 2;
+  }
+  

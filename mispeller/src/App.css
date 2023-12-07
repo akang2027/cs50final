@@ -1,0 +1,22 @@
+/* General CSS for App as a whole
+*/
+
+.App {
+  padding-right: 100px;
+  padding-top: 25px;
+  padding-bottom: 50px;
+  padding-left: 100px;
+}
+
+.app-container {
+  /* flex allows different components to fit together */
+  display: flex;
+  justify-content:space-between;
+  margin-right: 20px; 
+}
+
+@media (max-width: 600px) {
+  .app-container {
+    display: block; /* Switch to column layout if mobile */
+  }
+}

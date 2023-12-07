@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: "EB Garamond", serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 18px;
+}
+
+textarea {
+  padding: 10px;
+  font-family: "EB Garamond", serif;
+  font-size: 18px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
