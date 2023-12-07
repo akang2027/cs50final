@@ -29,7 +29,7 @@ const TextInputForm = () => {
           <textarea
             value={inputValue}
             onChange={handleInputChange}
-            style={{ width: '60vw', height: '15vh' }}
+            style={{ width: '55vw', height: '15vh' }}
           />
         </label>
         <br></br>
