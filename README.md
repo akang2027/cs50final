@@ -10,3 +10,5 @@ After downloading the .zip file or entering the codespace, cd into misspeller an
 If there is no text input——in effect, no text to be misspelled, the submit button will not appear, as the submit button is within the misspell component. One of the tested cases where the program will not work as intended is in the instance of a single question input, where the chatbot will attempt to answer the question posed rather than misspell the question. This may also occur with similar inputs that demand an answer to a posed request, such as mathematical equations. I've chosen to keep this rather than complicate my code by adding a condition in the chat completion that removes such cases fearing that these conditions may affect text misspellings that currently function normally. 
 
 https://github.com/akang2027/cs50final
+
+https://youtu.be/hTXtXwquoSU
